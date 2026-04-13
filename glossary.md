@@ -30,23 +30,6 @@ Using modules written in different languages as typed dependencies across techno
 
 ---
 
-## D
-
-### Digital Transformation
-The broader process of integrating digital technology into all areas of a business. Graftcode supports this by enabling modernization and reuse of software assets.
-
-### Disruptive Technology
-An innovation that significantly changes how industries or businesses operate. Graftcode may be described as disruptive in software integration and architecture.
-
----
-
-## F
-
-### Future-Proofing
-Designing systems to remain useful over time. Graftcode supports this through strong modularity and runtime/location decoupling.
-
----
-
 ## G
 
 ### Generator (Strongly Typed Interface Generator)
@@ -78,6 +61,9 @@ A portal analytics capability focused on visibility into usage, runtime behavior
 
 ### Graftcode Modules
 A discovery/search experience for finding packages across public and private artifact feeds and installing their Grafts.
+
+### Graftcode Portal
+The web experience for discovering modules/services, managing projects/workspaces, and obtaining install/configuration guidance for Grafts.
 
 ### Graftcode Vision
 A runtime-based interface explorer that shows live exposed interfaces, install commands, and configuration examples for consuming services as Grafts.
@@ -122,9 +108,6 @@ An architectural pattern where a single application is composed of well-defined 
 ### Package Manager
 A dependency tool (for example npm, NuGet, Maven, PyPI) used to install and manage Graft packages.
 
-### Portal
-The web experience for discovering modules/services, managing projects/workspaces, and obtaining install/configuration guidance for Grafts.
-
 ### Project
 A scoped unit in the platform that groups services, gateways, virtual feeds, and related configuration for a specific system or environment.
 
@@ -134,9 +117,6 @@ A scoped unit in the platform that groups services, gateways, virtual feeds, and
 
 ### Resolver
 A component that fetches and resolves source packages/versions/dependencies from artifact repositories.
-
-### Return on Investment (ROI)
-A measure of investment efficiency. Graftcode can improve ROI by reducing integration overhead and accelerating delivery.
 
 ---
 
@@ -150,13 +130,6 @@ A client library with explicit method/type contracts validated by language tooli
 
 ---
 
-## T
-
-### Technical Debt
-The implied rework cost caused by short-term solutions. Graftcode helps reduce this by minimizing hand-written integration code and contract duplication.
-
----
-
 ## U
 
 ### Unified Graft Model (UGM)
@@ -165,9 +138,6 @@ A language-agnostic model of exposed interfaces (types, methods, signatures) use
 ---
 
 ## V
-
-### Vendor Lock-in
-A situation where switching vendors is difficult due to dependency on proprietary technology. Graftcode can reduce lock-in by decoupling consumption from implementation technology.
 
 ### Virtual Feed
 A project-scoped logical feed where exposed modules are registered and made available as versioned Grafts per package ecosystem.
